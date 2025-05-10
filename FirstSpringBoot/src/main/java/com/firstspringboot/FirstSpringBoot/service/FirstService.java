@@ -1,4 +1,8 @@
 package com.firstspringboot.FirstSpringBoot.service;
 
-public class FirstService {
+import org.springframework.stereotype.Service;
+
+@Service
+public class FirstService
+{
 }

@@ -1,7 +1,7 @@
 package com.firstspringboot.FirstSpringBoot.controller;
 
 import org.springframework.web.bind.annotation.*;
-
+// entry point for all request from the client and  it will return response
 @RestController
 @RequestMapping("/first")
 public class FirstController {
